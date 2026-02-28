@@ -1,11 +1,8 @@
 streamlit
-plotly
 numpy
 pandas
 matplotlib
 scikit-learn
-pennylane
-pennylane-lightning
+plotly
 qiskit
-qiskit-aer
-scipy
+pennylane
