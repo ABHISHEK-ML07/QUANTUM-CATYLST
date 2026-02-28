@@ -1,0 +1,3 @@
+material,method,energy_eV
+graphene_N_doped (cluster),exact,-7.05483082
+graphene_N_doped (cluster),vqe_ansatz,-7.05482143

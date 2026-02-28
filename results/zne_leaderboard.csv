@@ -1,0 +1,9 @@
+material,method,energy
+graphene_N_doped_cluster,exact_scale1,-7.05483082
+graphene_N_doped_cluster,exact_scale2,-7.05904553
+graphene_N_doped_cluster,exact_scale3,-7.06336397
+graphene_N_doped_cluster,exact_extrapolated,-7.05054696
+graphene_N_doped_cluster,vqe_scale1,-7.05482143
+graphene_N_doped_cluster,vqe_scale2,-7.05381229
+graphene_N_doped_cluster,vqe_scale3,-7.05280525
+graphene_N_doped_cluster,vqe_extrapolated,-7.05582917

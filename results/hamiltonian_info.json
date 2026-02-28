@@ -1,0 +1,39 @@
+{
+  "n_qubits": 6,
+  "structure_used": "structures/doped/graphene_N_doped.xyz",
+  "cluster_symbols": [
+    "N",
+    "C",
+    "C",
+    "C",
+    "C",
+    "C"
+  ],
+  "num_pauli_terms": 21,
+  "pauli_terms_sample": [
+    {
+      "coef": -0.7042253535617368,
+      "pstr": "ZZIIII"
+    },
+    {
+      "coef": -0.7042253521126761,
+      "pstr": "ZIZIII"
+    },
+    {
+      "coef": -0.7042253492668276,
+      "pstr": "ZIIZII"
+    },
+    {
+      "coef": -0.40658469689128435,
+      "pstr": "ZIIIZI"
+    },
+    {
+      "coef": -0.40658469689128435,
+      "pstr": "ZIIIIZ"
+    },
+    {
+      "coef": -0.40658469689128435,
+      "pstr": "IZZIII"
+    }
+  ]
+}

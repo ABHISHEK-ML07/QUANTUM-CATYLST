@@ -1,0 +1,3 @@
+index,material,dopant,adsorbate,ml_predicted,exact_energy,vqe_energy,n_qubits,structure_used,method
+0,platinum,None,H,-2.5552499999999974,-2.0513809281764877,-2.0501461461231663,4,structures\platinum\pt_cluster.xyz,scipy_nelder_mead
+1,platinum,None,OH,-2.3479999999999945,-2.0513809281764877,-2.0501461461231663,4,structures\platinum\pt_cluster.xyz,scipy_nelder_mead

@@ -1,0 +1,9 @@
+material,surface,adsorbate,dopant,coordination,adsorption_energy_ev
+graphene,graphene,H,N,3,-2.31
+graphene,graphene,H,S,3,-2.12
+graphene,graphene,OH,N,3,-1.85
+graphene,graphene,OH,S,3,-1.62
+platinum,Pt(111),H,None,9,-2.75
+platinum,Pt(111),OH,None,9,-2.40
+graphene,graphene,H,None,3,-1.45
+graphene,graphene,OH,None,3,-1.10

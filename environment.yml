@@ -1,0 +1,12 @@
+name: quantum-catalyst
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - ase
+  - pip:
+      - qiskit      # optional later; can install after env creation if slow
+      - mitiq       # optional: ZNE utilities (can be installed later too)
+      - pennylane   # optional later

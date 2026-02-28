@@ -1,0 +1,5 @@
+{
+  "vqe_energy": -7.0548214263899816,
+  "method": "scipy_nelder_mead",
+  "n_qubits": 6
+}

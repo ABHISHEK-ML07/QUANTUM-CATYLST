@@ -1,0 +1,5 @@
+material,method,energy
+graphene_N_doped_cluster,exact,-7.05483082
+graphene_N_doped_cluster,vqe,-7.05482143
+platinum_cluster,exact,-2.05138093
+platinum_cluster,vqe,-2.05014615
